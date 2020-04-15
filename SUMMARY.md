@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [UVify Product Documentation](README.md)
+
+## IFO-S
+
+* [Latest Firmware Update](ifo-s/latest-firmware-update.md)
 
